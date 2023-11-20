@@ -8,4 +8,4 @@ SKILLS USED:
 
 Data was obtained from https://ourworldindata.org/covid-deaths Time Period: 01/08/2020 - 11/09/2023
 
-An exploration into the deaths and infections of the COVID-19 virus by country and continent.
+An exploration into the deaths and infections of the COVID-19 virus by country and continent. 
